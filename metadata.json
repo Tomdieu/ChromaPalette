@@ -1,0 +1,6 @@
+{
+  "name": "ChromaForge - Color Studio & Palette Generator",
+  "description": "Generate random colors, parse any color code format, fine-tune shades, and craft custom harmonious palettes and design tokens.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
